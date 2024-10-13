@@ -1,0 +1,32 @@
+{
+    "drugs": [
+      {
+        "rxcui": "12345",
+        "name": "Acetaminophen",
+        "synonym": "Tylenol"
+      },
+      {
+        "rxcui": "67890",
+        "name": "Ibuprofen",
+        "synonym": "Advil"
+      }
+    ],
+    "spellingSuggestions": [
+      {
+        "suggestion": "Acetaminophen"
+      },
+      {
+        "suggestion": "Ibuprofen"
+      }
+    ],
+    "ndcs": [
+      {
+        "rxcui": "12345",
+        "ndcs": ["12345-678-90"]
+      },
+      {
+        "rxcui": "67890",
+        "ndcs": ["98765-432-10"]
+      }
+    ]
+  }
